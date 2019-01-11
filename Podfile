@@ -25,5 +25,7 @@ target 'CommonLibraries' do
 	pod 'Texture'
 	pod 'AAChartKit'
 	pod 'PNChart'
-	
+	pod 'SDAutoLayout'
+	pod 'YDCategories', :git => 'https://github.com/devYoungyang/YYCategories.git'
+    
 end
